@@ -1,229 +1,232 @@
-👨‍💻 S A N K H A D I P   J A N A
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Sankhadip+Jana+%F0%9F%91%8B;Python+Developer+%7C+Full+Stack+Developer;I+turn+coffee+into+code+%E2%98%95%F0%9F%92%BB;Building.+Breaking.+Learning.+Repeating.;Welcome+to+my+digital+world+%F0%9F%9A%80" alt="Typing SVG" />
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sankhadipjana&label=PROFILE%20VIEWS&color=00f7ff&style=for-the-badge" />
-</p>
-
-⸻
-
-🌀 who_am_i()
-
-class SankhadipJana:
-    def __init__(self):
-        self.name = "Sankhadip Jana"
-        self.role = "Developer"
-        self.languages = [
-            "Python",
-            "JavaScript",
-            "HTML",
-            "CSS"
-        ]
-        self.currently_learning = [
-            "Data Structures & Algorithms",
-            "React",
-            "Backend Development",
-            "Full Stack Development"
-        ]
-        self.superpower = "Turning ☕ into 💻"
-        self.status = "Building something... 🚀"
-    def say_hi(self):
-        print("Welcome to my GitHub! 👋")
-me = SankhadipJana()
-me.say_hi()
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                    SANKHADIP JANA                           -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:111827,100:00F7FF&height=220&section=header&text=SANKHADIP%20JANA&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=CODE%20%7C%20CREATE%20%7C%20REPEAT&descAlignY=58&descSize=18"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=900&color=00F7FF&center=true&vCenter=true&width=750&lines=Python+Developer+%F0%9F%90%8D;Full+Stack+Developer+%F0%9F%92%BB;DSA+%7C+Problem+Solving+%F0%9F%A7%A0;Building+the+future%2C+one+commit+at+a+time+%F0%9F%9A%80;Welcome+to+my+digital+space+%E2%9A%A1" />
+<br>
+<img src="https://komarev.com/ghpvc/?username=sankhadipjana&style=for-the-badge&color=00f7ff&label=PROFILE+VIEWS"/>
+</div>
 
 ⸻
 
-⚡ THE DEVELOPER ARC
+<div align="center">
 
-              ┌──────────────────────┐
-              │      IDEA 💡         │
-              └──────────┬───────────┘
-                         ↓
-              ┌──────────────────────┐
-              │      CODE 💻         │
-              └──────────┬───────────┘
-                         ↓
-              ┌──────────────────────┐
-              │     DEBUG 🐛         │
-              └──────────┬───────────┘
-                         ↓
-              ┌──────────────────────┐
-              │     LEARN 🧠         │
-              └──────────┬───────────┘
-                         ↓
-              ┌──────────────────────┐
-              │     BUILD 🚀        │
-              └──────────┬───────────┘
-                         ↓
-              ┌──────────────────────┐
-              │     REPEAT 🔥        │
-              └──────────────────────┘
+// SYSTEM ONLINE
+
+╔══════════════════════════════════════════════════════════╗
+║                                                          ║
+║   USER        :  SANKHADIP_JANA                         ║
+║   ROLE        :  DEVELOPER                              ║
+║   STATUS      :  BUILDING 🚀                            ║
+║   LOCATION    :  INDIA 🇮🇳                              ║
+║   MAIN_LANG   :  PYTHON 🐍                              ║
+║   MINDSET     :  LEARN → BUILD → BREAK → FIX            ║
+║                                                          ║
+╚══════════════════════════════════════════════════════════╝
+</div>
 
 ⸻
 
-🧪 CURRENT_MODE
+🧬 ABOUT_ME
 
-[██████████████████████░░]  DEVELOPMENT MODE
-> Learning DSA              ████████████████████░  90%
-> Python                    ███████████████████░░  85%
-> Web Development           █████████████████░░░░  80%
-> React                     ███████████████░░░░░░  70%
-> Backend                   █████████████░░░░░░░░  65%
-> Open Source               ████████░░░░░░░░░░░░  40%
+<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+class Developer:
+    name = "Sankhadip Jana"
+    role = "Full Stack Developer"
+    languages = [
+        "Python",
+        "JavaScript",
+        "HTML",
+        "CSS"
+    ]
+    learning = [
+        "DSA",
+        "React",
+        "Backend",
+        "System Design"
+    ]
+    mindset = "Never stop building."
+    def mission(self):
+        return "Turn ideas into reality 🚀"
+<br clear="right"/>
 
 ⸻
 
-🛠️ TECH_WEAPONRY
+⚡ TECH_STACK
 
-💻 Languages
+<div align="center">
 
-<p align="center">
+LANGUAGES
+
 <img src="https://skillicons.dev/icons?i=python,js,html,css" />
-</p>
 
-⚛️ Development
+FRAMEWORKS & DEVELOPMENT
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=react,nodejs,git,github,vscode" />
-</p>
+<img src="https://skillicons.dev/icons?i=react,nodejs" />
 
-⸻
+TOOLS
 
-🧠 BRAIN.exe
-
-┌─────────────────────────────────────────────┐
-│                                             │
-│   DATA STRUCTURES      ████████████░░       │
-│   ALGORITHMS           ███████████░░░       │
-│   PROBLEM SOLVING      █████████████░       │
-│   PYTHON               ██████████████       │
-│   WEB DEVELOPMENT      ████████████░░       │
-│                                             │
-└─────────────────────────────────────────────┘
-
-while(alive): learn(); build(); break_things(); fix_them();
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+</div>
 
 ⸻
 
-🚀 PROJECT UNIVERSE
+🎮 DEVELOPER_STATS
 
-🐍 Python Mini Projects
-
-Small experiments → bigger skills.
-
-Python • Logic • Problem Solving
-
-⸻
-
-🌐 My Portfolio
-
-My little corner of the internet.
-
-HTML • CSS • JavaScript • Web Development
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=sankhadipjana&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF&ring_color=00F7FF" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sankhadipjana&layout=compact&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF" height="180"/>
+</div>
 
 ⸻
 
-⚛️ React Projects
+🔥 STREAK_MODE
 
-Turning components into experiences.
-
-React • JavaScript • Frontend Development
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sankhadipjana&hide_border=true&background=0D1117&ring=00F7FF&fire=FF6B00&currStreakLabel=00F7FF&sideLabels=FFFFFF&dates=777777&currStreakNum=FFFFFF&sideNums=FFFFFF"/>
+</div>
 
 ⸻
 
-🧠 DSA & Coding Practice
+🧠 CURRENTLY_LEARNING
 
-One problem at a time.
+<div align="center">
+
+⚙️ TECHNOLOGY	📈 STATUS
+🐍 Python	████████████████████ 95%
+🧩 DSA	█████████████████░░░ 85%
+⚛️ React	███████████████░░░░░ 75%
+🌐 Web Development	██████████████████░░ 90%
+🖥️ Backend	█████████████░░░░░░░ 65%
+
+</div>
+
+⸻
+
+🚀 PROJECT_ZONE
+
+<div align="center">
+
+🐍 PYTHON LAB
+
+Mini projects • Logic building • Automation • Experiments
+
+<br>
+
+⚛️ REACT LAB
+
+Components • UI • Frontend experiments
+
+<br>
+
+🌐 PORTFOLIO
+
+My personal developer space
+
+<br>
+
+🧠 DSA ARENA
 
 Arrays • Strings • Linked Lists • Stack • Queue • Trees • Algorithms
 
-⸻
-
-📊 SYSTEM_STATS
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=sankhadipjana&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF" />
-</p>
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sankhadipjana&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" />
-</p>
+</div>
 
 ⸻
 
-🧬 CODE DNA
+🐍 CONTRIBUTION_MATRIX
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sankhadipjana&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF" />
-</p>
-
-⸻
-
-🐍 CONTRIBUTION MATRIX
-
-<p align="center">
+<div align="center">
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
-</p>
+</div>
 
 ⸻
 
-🎯 MISSION_2026
+🎯 2026.EXE
 
-[✓] Learn Python deeply
-[✓] Build real projects
-[ ] Master Data Structures & Algorithms
-[ ] Become a stronger Full Stack Developer
-[ ] Build production-ready applications
-[ ] Contribute to Open Source
-[ ] Solve 300+ coding problems
-[ ] Land a great developer role
-
-⸻
-
-💭 DEVELOPER_THOUGHTS
-
-“First make it work.
-Then make it better.
-Then make it beautiful.”
-
-dream = "Become better than yesterday"
-while True:
-    learn()
-    build()
-    fail()
-    debug()
-    improve()
-    if success:
-        celebrate()
-        keep_going()
+┌────────────────────────────────────────────────────────┐
+│                                                        │
+│  [████████████████████] Python                  ✓      │
+│  [█████████████████░░░] Web Development         ⚡      │
+│  [██████████████░░░░░░] DSA                    🔥      │
+│  [████████████░░░░░░░░] React                  🚀      │
+│  [████████░░░░░░░░░░░░] Backend                🧠      │
+│  [█████░░░░░░░░░░░░░░░] Open Source            🌎      │
+│                                                        │
+└────────────────────────────────────────────────────────┘
 
 ⸻
 
-🌌 DIGITAL FOOTPRINT
+💻 THE_LOOP
 
-<p align="center">
+<div align="center">
+        ┌───────────┐
+        │   IDEA 💡 │
+        └─────┬─────┘
+              ↓
+        ┌───────────┐
+        │   CODE 💻 │
+        └─────┬─────┘
+              ↓
+        ┌───────────┐
+        │  BUG 🐛   │
+        └─────┬─────┘
+              ↓
+        ┌───────────┐
+        │ DEBUG 🔧  │
+        └─────┬─────┘
+              ↓
+        ┌───────────┐
+        │ LEARN 🧠  │
+        └─────┬─────┘
+              ↓
+        ┌───────────┐
+        │ BUILD 🚀  │
+        └─────┬─────┘
+              │
+              └───────────────↻
+</div>
+
+⸻
+
+🌌 DEVELOPER_PHILOSOPHY
+
+<div align="center">
+
+"Don't just write code. Build something people remember."
+
+<br>
+
+LEARN  →  BUILD  →  FAIL  →  DEBUG  →  IMPROVE  →  REPEAT
+
+</div>
+
+⸻
+
+🌐 CONNECT
+
+<div align="center">
 <a href="https://github.com/sankhadipjana">
 <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=00F7FF"/>
 </a>
-<a href="https://github.com/sankhadipjana">
-<img src="https://img.shields.io/badge/OPEN_SOURCE-00F7FF?style=for-the-badge&logo=github&logoColor=black"/>
+<a href="https://github.com/sankhadipjana?tab=repositories">
+<img src="https://img.shields.io/badge/PROJECTS-111827?style=for-the-badge&logo=github&logoColor=00F7FF"/>
 </a>
-</p>
+</div>
+<br>
+<div align="center">
 
-⸻
+⚡ SANKHADIP_JANA.exe
 
-<p align="center">
+STATUS: BUILDING THE NEXT VERSION…
 
-⚡ CODE • CREATE • DEBUG • REPEAT
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00F7FF&height=100&section=footer"/>
-</p>
+</div>
+<br>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:111827,100:000000&height=120&section=footer"/>
+</div>
 <!--
-███████╗ █████╗ ███╗   ██╗██╗  ██╗██╗  ██╗ █████╗ ██████╗ ██╗██████╗
-██╔════╝██╔══██╗████╗  ██║██║ ██╔╝██║  ██║██╔══██╗██╔══██╗██║██╔══██╗
-███████╗███████║██╔██╗ ██║█████╔╝ ███████║███████║██║  ██║██║██████╔╝
-╚════██║██╔══██║██║╚██╗██║██╔═██╗ ██╔══██║██╔══██║██║  ██║██║██╔═══╝
-███████║██║  ██║██║ ╚████║██║  ██╗██║  ██║██║  ██║██████╔╝██║██║
-╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝ ╚═╝╚═╝
-KEEP BUILDING 🚀
+████████████████████████████████████████████████████████████
+                  KEEP BUILDING. 🚀
+████████████████████████████████████████████████████████████
 -->
