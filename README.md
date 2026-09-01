@@ -1,149 +1,229 @@
-<div align="center">
+👨‍💻 S A N K H A D I P   J A N A
 
-Hi, I’m Sankhadip Jana 👋
-
-Python Developer • Full Stack Developer • Problem Solver
-
-Building practical applications, strengthening my DSA skills, and continuously learning modern development technologies.
-
-<br>
-<a href="https://github.com/sankhadipjana">
-<img src="https://img.shields.io/badge/GitHub-sankhadipjana-181717?style=for-the-badge&logo=github"/>
-</a>
-<a href="https://github.com/sankhadipjana?tab=repositories">
-<img src="https://img.shields.io/badge/Repositories-View%20Projects-0969DA?style=for-the-badge&logo=github"/>
-</a>
-</div>
-
-⸻
-
-👨‍💻 About Me
-
-I’m a developer focused on Python, web development, and problem solving.
-
-I enjoy turning ideas into functional applications while continuously improving my understanding of Data Structures & Algorithms, software development, and modern web technologies.
-
-* 🔭 Currently focusing on Full Stack Development
-* 🐍 Strong interest in Python
-* 🧠 Practicing Data Structures & Algorithms
-* ⚛️ Learning and building with React
-* 🌐 Interested in building modern web applications
-* 🚀 Always working on new projects and improving my skills
-
-⸻
-
-🛠️ Technical Skills
-
-Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,javascript,html,css" />
-</p>
-
-Frameworks & Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,nodejs" />
-</p>
-
-Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Sankhadip+Jana+%F0%9F%91%8B;Python+Developer+%7C+Full+Stack+Developer;I+turn+coffee+into+code+%E2%98%95%F0%9F%92%BB;Building.+Breaking.+Learning.+Repeating.;Welcome+to+my+digital+world+%F0%9F%9A%80" alt="Typing SVG" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sankhadipjana&label=PROFILE%20VIEWS&color=00f7ff&style=for-the-badge" />
 </p>
 
 ⸻
 
-📚 Currently Learning
+🌀 who_am_i()
 
-Technology	Focus
-🐍 Python	Advanced programming & problem solving
-🧠 DSA	Algorithms & competitive problem solving
-⚛️ React	Modern frontend development
-🌐 Web Development	Full Stack applications
-🖥️ Backend	APIs & server-side development
+class SankhadipJana:
+    def __init__(self):
+        self.name = "Sankhadip Jana"
+        self.role = "Developer"
+        self.languages = [
+            "Python",
+            "JavaScript",
+            "HTML",
+            "CSS"
+        ]
+        self.currently_learning = [
+            "Data Structures & Algorithms",
+            "React",
+            "Backend Development",
+            "Full Stack Development"
+        ]
+        self.superpower = "Turning ☕ into 💻"
+        self.status = "Building something... 🚀"
+    def say_hi(self):
+        print("Welcome to my GitHub! 👋")
+me = SankhadipJana()
+me.say_hi()
 
 ⸻
 
-🚀 Featured Work
+⚡ THE DEVELOPER ARC
+
+              ┌──────────────────────┐
+              │      IDEA 💡         │
+              └──────────┬───────────┘
+                         ↓
+              ┌──────────────────────┐
+              │      CODE 💻         │
+              └──────────┬───────────┘
+                         ↓
+              ┌──────────────────────┐
+              │     DEBUG 🐛         │
+              └──────────┬───────────┘
+                         ↓
+              ┌──────────────────────┐
+              │     LEARN 🧠         │
+              └──────────┬───────────┘
+                         ↓
+              ┌──────────────────────┐
+              │     BUILD 🚀        │
+              └──────────┬───────────┘
+                         ↓
+              ┌──────────────────────┐
+              │     REPEAT 🔥        │
+              └──────────────────────┘
+
+⸻
+
+🧪 CURRENT_MODE
+
+[██████████████████████░░]  DEVELOPMENT MODE
+> Learning DSA              ████████████████████░  90%
+> Python                    ███████████████████░░  85%
+> Web Development           █████████████████░░░░  80%
+> React                     ███████████████░░░░░░  70%
+> Backend                   █████████████░░░░░░░░  65%
+> Open Source               ████████░░░░░░░░░░░░  40%
+
+⸻
+
+🛠️ TECH_WEAPONRY
+
+💻 Languages
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,js,html,css" />
+</p>
+
+⚛️ Development
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,nodejs,git,github,vscode" />
+</p>
+
+⸻
+
+🧠 BRAIN.exe
+
+┌─────────────────────────────────────────────┐
+│                                             │
+│   DATA STRUCTURES      ████████████░░       │
+│   ALGORITHMS           ███████████░░░       │
+│   PROBLEM SOLVING      █████████████░       │
+│   PYTHON               ██████████████       │
+│   WEB DEVELOPMENT      ████████████░░       │
+│                                             │
+└─────────────────────────────────────────────┘
+
+while(alive): learn(); build(); break_things(); fix_them();
+
+⸻
+
+🚀 PROJECT UNIVERSE
 
 🐍 Python Mini Projects
 
-A collection of Python projects created to strengthen programming fundamentals, logic, and problem-solving skills.
+Small experiments → bigger skills.
 
-Focus: Python • Programming Logic • Automation
+Python • Logic • Problem Solving
 
 ⸻
 
-🌐 Personal Portfolio
+🌐 My Portfolio
 
-A personal portfolio website showcasing my skills, projects, and development journey.
+My little corner of the internet.
 
-Focus: HTML • CSS • JavaScript • Web Development
+HTML • CSS • JavaScript • Web Development
 
 ⸻
 
 ⚛️ React Projects
 
-Frontend projects focused on learning React concepts and building interactive user interfaces.
+Turning components into experiences.
 
-Focus: React • JavaScript • UI Development
-
-⸻
-
-🧠 DSA & Problem Solving
-
-Regular practice with programming problems covering fundamental data structures and algorithms.
-
-Topics: Arrays • Strings • Linked Lists • Stack • Queue • Trees • Algorithms
+React • JavaScript • Frontend Development
 
 ⸻
 
-📊 GitHub Analytics
+🧠 DSA & Coding Practice
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=sankhadipjana&show_icons=true&hide_border=true&theme=transparent" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sankhadipjana&layout=compact&hide_border=true&theme=transparent" height="170"/>
-</div>
-<br>
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sankhadipjana&hide_border=true&theme=transparent"/>
-</div>
+One problem at a time.
+
+Arrays • Strings • Linked Lists • Stack • Queue • Trees • Algorithms
 
 ⸻
 
-🎯 Goals
+📊 SYSTEM_STATS
 
-✓ Strengthen Python
-✓ Improve DSA & problem solving
-✓ Build production-ready applications
-→ Master Full Stack Development
-→ Contribute to Open Source
-→ Build impactful projects
-→ Grow as a Software Developer
-
-⸻
-
-💡 My Development Philosophy
-
-Learn continuously. Build consistently. Solve problems. Improve every day.
-
-I believe the best way to learn software development is to combine theory, problem solving, and real-world projects.
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=sankhadipjana&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF" />
+</p>
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sankhadipjana&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" />
+</p>
 
 ⸻
 
-🤝 Let’s Connect
+🧬 CODE DNA
 
-<div align="center">
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sankhadipjana&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF" />
+</p>
+
+⸻
+
+🐍 CONTRIBUTION MATRIX
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+⸻
+
+🎯 MISSION_2026
+
+[✓] Learn Python deeply
+[✓] Build real projects
+[ ] Master Data Structures & Algorithms
+[ ] Become a stronger Full Stack Developer
+[ ] Build production-ready applications
+[ ] Contribute to Open Source
+[ ] Solve 300+ coding problems
+[ ] Land a great developer role
+
+⸻
+
+💭 DEVELOPER_THOUGHTS
+
+“First make it work.
+Then make it better.
+Then make it beautiful.”
+
+dream = "Become better than yesterday"
+while True:
+    learn()
+    build()
+    fail()
+    debug()
+    improve()
+    if success:
+        celebrate()
+        keep_going()
+
+⸻
+
+🌌 DIGITAL FOOTPRINT
+
+<p align="center">
 <a href="https://github.com/sankhadipjana">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=00F7FF"/>
 </a>
-</div>
-<br>
-<div align="center">
+<a href="https://github.com/sankhadipjana">
+<img src="https://img.shields.io/badge/OPEN_SOURCE-00F7FF?style=for-the-badge&logo=github&logoColor=black"/>
+</a>
+</p>
 
-Thanks for visiting my profile! ⭐
+⸻
 
-Let’s build something great. 🚀
+<p align="center">
 
-</div>
+⚡ CODE • CREATE • DEBUG • REPEAT
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00F7FF&height=100&section=footer"/>
+</p>
+<!--
+███████╗ █████╗ ███╗   ██╗██╗  ██╗██╗  ██╗ █████╗ ██████╗ ██╗██████╗
+██╔════╝██╔══██╗████╗  ██║██║ ██╔╝██║  ██║██╔══██╗██╔══██╗██║██╔══██╗
+███████╗███████║██╔██╗ ██║█████╔╝ ███████║███████║██║  ██║██║██████╔╝
+╚════██║██╔══██║██║╚██╗██║██╔═██╗ ██╔══██║██╔══██║██║  ██║██║██╔═══╝
+███████║██║  ██║██║ ╚████║██║  ██╗██║  ██║██║  ██║██████╔╝██║██║
+╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝ ╚═╝╚═╝
+KEEP BUILDING 🚀
+-->
